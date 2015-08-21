@@ -1,2 +1,2 @@
 # camp-here
-My first repository on Github
+My first repository on Github, lets get started
